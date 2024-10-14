@@ -1,0 +1,23 @@
+body{
+	background-color: rgb(136, 136, 136);
+}
+
+
+.title{
+	text-align: center; 
+  text-transform: uppercase;
+}
+
+
+.title__colored{
+	color: #F9BF3B;
+}
+
+.title__big{
+    font-family: Roboto;
+		font-size: 80px;
+		font-weight: 900;
+		line-height: 80px;
+		text-align: center;
+		color: #fff;
+}   
